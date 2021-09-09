@@ -1,0 +1,23 @@
+{
+  "name": "CS5513-Week03-amylagomarsino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "date-fns": "^2.23.0",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.2",
+    "react-dom": "^17.0.2",
+    "remark": "^14.0.1",
+    "remark-html": "^14.0.1",
+    "repeat-string": "^1.6.1",
+    "scheduler": "^0.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
